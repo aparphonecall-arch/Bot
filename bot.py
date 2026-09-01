@@ -564,10 +564,10 @@ try:
 except (TypeError, ValueError):
     KEEPALIVE_PORT = 10000
 
-BRAND       = "ѕιмяαη нoѕтιηg ＲΒOT"
+BRAND       = "Robi (@RobiEntertainment) нoѕтιηg ＲΒOT"
 BRAND_VER   = "v2.1"
 BRAND_TAG   = f"{BRAND} {BRAND_VER}"
-SUPPORT_USR = "@nur7871"
+SUPPORT_USR = "@RobiEntertainment"
 UPDATE_CH   = "https://t.me/+MXtA9ufCgok3Yjc1"
 FOOTER      = f"\n\n<blockquote>{BRAND_TAG}</blockquote>"
 
